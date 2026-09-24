@@ -1,4 +1,4 @@
-"#Muktadir Haque Sarker - Portfolio
+# Muktadir Haque Sarker - Portfolio
 
 Welcome to my personal portfolio website! This repository contains my professional portfolio showcasing my work, skills, and experience as a Backend Python Developer.
 
@@ -46,8 +46,8 @@ Then open `index.html` in your web browser.
 ```
 .
 ├── index.html                     # Main portfolio page
-├── blog.html                      # Blog page
-├── blog2.html                     # Secondary Blog page
+├── posts.html                     # All posts, with tag filter
+├── blog3.html                     # Blog post: "Is telepathy even real?"
 ├── README.md                      # This file
 ├── Muktadir_Haque_Sarker_CV.pdf   # Resume/CV
 └── favicon/                       # Website favicon files
@@ -67,4 +67,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-*Last updated: June 2026*" 
+*Last updated: September 2026*
